@@ -4,14 +4,23 @@ Quick Install
 https://insight.is/
 
 
-To install Insight, clone the main repository:
-$ git clone git@github.com:bitpay/insight.git && cd insight
+1.To install Insight, clone the main repository:
 
-Install dependencies:
-$ npm install
+git clone https://github.com/bitpay/insight.git
 
-Fire it up:
-$ node insight.js
+cd insight
 
-Then open a browser and go to:
+
+2.Install dependencies:
+
+npm install
+
+
+3.Fire it up:
+
+node insight.js
+
+
+
+4.Then open a browser and go to:
 http://localhost:3001
